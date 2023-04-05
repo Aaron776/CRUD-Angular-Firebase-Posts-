@@ -1,0 +1,2 @@
+la base de datos es firebase y se llama CRUD Angular-firebase
+video: https://www.youtube.com/watch?v=jYib9mMUAiE&list=PLrAw40DbN0l26EDWyIloAmoLQK6POHgym&index=1
